@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+}
+body {
+  background-image: url(/new-life/milad-fakurian-7wUorDiCMSU-unsplash.jpg);
+    margin: 0;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+    overflow: hidden;
+    
+    padding: 20px 10px;
+}
+.main a {
+    float: left;
+    color:#636b75;
+    text-align: center;
+    padding: 11px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 6px;
+}
+#free {
+  background-color: #0039D7;
+  color: #FFFFFF;
+}
+.main a.logo {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main-right {
+    float: right;
+}
+.lead h1 {
+  margin-top: 130px;
+    margin-left: 200px;
+    font-size: 50px;
+}
+.lead p{
+    margin-left: 200px;
+    color: #636b75;
+
+}
+.lead button {
+    margin-left: 200px;
+    font-size: 20px;
+  appearance: button;
+  background-color: #1652F0;
+  border: 1px solid #1652F0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 14px;
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 16px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+}
+
+.lead button:disabled {
+  opacity: .5;
+}
+
+.lead button:focus {
+  outline: 0;
+}
+
+.lead button:hover {
+  background-color: #0A46E4;
+  border-color: #0A46E4;
+}
+
+.lead button:active {
+  background-color: #0039D7;
+  border-color: #0039D7;
+}
+#photo1 {
+    position: relative;
+    left: 1000px;
+    bottom: 300px;
+    
+}
+.photo2 {
+  position: absolute;
+left: 200px;
+bottom: 100px;
+}
+.photo3 {
+  position: absolute;
+  left: 650px;
+  bottom: 100px;
+}
+.photo4 {
+  position: absolute;
+  left: 1100px;
+  bottom: 100px;
+}
+.lida {
+  margin-left: 40px;
+}
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+
+
+
